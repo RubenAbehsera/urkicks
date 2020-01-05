@@ -1,0 +1,168 @@
+.header_admin {
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.logo_admin {
+    width: 200px;
+    height: 70px;
+}
+
+.right_admin {
+    width: 600px;
+    display: flex;
+    margin-left: 40%;
+    justify-content: space-around;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', medium, sans-serif;
+
+}
+
+.container_admin {
+    width: 85%;
+    background: red;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sneaker_admin {
+    background: green;
+    margin-bottom: 10px;
+}
+
+.sneaker_admin-img {
+    width: 250px;
+    height: 250px;
+}
+
+.adjust_size {
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+.adjust_size-price {
+    margin-bottom: 40px;
+    margin-top: -5px;
+    font-weight: bold;
+
+}
+
+.adjust_size-brand {
+    margin-bottom: -18px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+
+.adjust-size-little_brand {
+    width: 80px;
+    height: 80px;
+}
+
+.brand-custom {
+    display: flex;
+    justify-content: center;
+}
+
+.title-collection {
+    font-family: 'Montserrat', medium, sans-serif;
+
+}
+
+.adjust_size {
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+.adjust_size-price {
+    margin-bottom: 40px;
+    margin-top: -5px;
+    font-weight: bold;
+
+}
+
+.adjust_size-brand {
+    margin-bottom: -18px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+
+.adjust-size-little_brand {
+    width: 80px;
+    height: 80px;
+}
+
+.brand-custom {
+    display: flex;
+    justify-content: center;
+}
+
+.title-collection {
+    font-family: 'Montserrat', medium, sans-serif;
+
+}
+
+.home_item {
+    height: 200px;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+.home_item-text {
+    padding-top: 70px;
+
+}
+
+.contain_text {
+    display: flex;
+    justify-content: space-around;
+    width: 240px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.delete_containe {
+    text-align: center;
+}
+
+.delete_title {
+    text-align: center;
+}
+
+.delete_form {
+    display: flex;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.delete_text {
+    color: grey;
+}
+
+.delete_btn {
+    background: lightblue;
+    height: 30px;
+    margin-right: 28px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.delete_after {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 300px;
+    text-align: center;
+}
+.disconnect{
+    color: red;
+}
